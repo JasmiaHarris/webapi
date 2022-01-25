@@ -1,0 +1,23 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "--y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasmiaHarris/webapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasmiaHarris/webapi/issues"
+  },
+  "homepage": "https://github.com/JasmiaHarris/webapi#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "mongoose": "^6.1.8"
+  }
+}
